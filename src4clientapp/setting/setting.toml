@@ -1,0 +1,25 @@
+[setting]
+env = "dev"
+    [napkin]
+        HOST = "jaistneqo.npkn.net"
+        PATH = "/environment-stat"
+        ways = "/mean"
+        periods = "/l30m"
+        data_type = "/CO2"
+        PORT = 80
+        API_KEY = "7ca8c415d2954130ab38eda493af97ad"
+        DEVICE_ID = 2310063
+    [wav]
+        wav_dir = "./wav/"
+        wav_level1 = "normal.wav"
+        wav_level2 = "risky.wav"
+        wav_level3 = "danger.wav"
+    [img]
+        img_dir = "img/"
+        img_base = "base.jpg"
+        img_level1 = "normal.jpg"
+        img_level2 = "risky.jpg"
+        img_level3 = "danger.jpg"
+[master]
+account = "admin"
+password = "admin"

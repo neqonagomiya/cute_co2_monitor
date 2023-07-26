@@ -1,0 +1,16 @@
+my_id=ssora0063
+broker_URL=mqtt.beebotte.com
+broker_IP=54.221.205.80
+broker_port=1883
+client_id=umqtt_client
+user_id=token_G8eKdGzzLpR3XhBB
+channel=sky_com
+resource_co2=co2
+resource_temp=temp
+resource_humi=humi
+publish_flag=True
+publish_duration=60
+user_id_test=token_UjRS2rRCnWLslk72
+channel_test=test_com_ch
+resource_test=test_res1
+broker_IP_jaist=150.65.177.209
